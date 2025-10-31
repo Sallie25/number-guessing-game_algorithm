@@ -1,13 +1,13 @@
-# Number Guessing Game
+# **Project Title** : ### Number Guessing Game
 
-##  Description
+##  **Description**
 This is a simple number guessing game written as an algorithm using pseudocode.  
 The program randomly chooses a secret number between **1 and 10**.  
 The user must guess the number, and the program provides hints if the guess is **too high** or **too low**, repeating until the user guesses correctly.
 
 ---
 
-## Pseudocode
+## **Algorithm as a pseudocode**
 
 START
 
@@ -32,7 +32,7 @@ END
 
 ---
 
-##  Steps followed
+##  **project Details**
 1. Start the program.
 2. Generate a random number between 1 and 10.
 3. Ask the user to guess the number.
@@ -42,5 +42,12 @@ END
 5. When the guess is correct, display a **congratulatory message** and end the program.
 
 ---
+## Project Author
+**Akpan Salome Gabriel**
+
+## Peer Reviewer
+**Abiola Okubadejo**
+
+
 
 
