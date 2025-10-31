@@ -32,7 +32,7 @@ END
 
 ---
 
-##  **project Details**
+##  **Project Details**
 1. Start the program.
 2. Generate a random number between 1 and 10.
 3. Ask the user to guess the number.
