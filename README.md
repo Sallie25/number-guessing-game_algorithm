@@ -1,4 +1,4 @@
-# **Project Title** : ### Number Guessing Game
+# **Project Title** :  Number Guessing Game
 
 ##  **Description**
 This is a simple number guessing game written as an algorithm using pseudocode.  
