@@ -46,7 +46,7 @@ END
 **Akpan Salome Gabriel**
 
 ## Peer Reviewer
-**Abiola Okubadejo**
+**Ali Olalekan**
 
 
 
