@@ -17,13 +17,17 @@ START
 
 3. REPEAT
       a. Get user input and store it as userGuess.
-      b. IF userGuess < secretNumber THEN
-             Display "Too low! Try again."
-         ELSE IF userGuess > secretNumber THEN
-             Display "Too high! Try again."
+      b. IF userGuess is not a number THEN
+             Display "Invalid input! Please enter a number between 1 and 10."
          ELSE
-             Display "Correct! You guessed the correct number!"
-             EXIT LOOP
+             Convert userGuess to integer.
+             IF userGuess < secretNumber THEN
+                 Display "Too low! Try again."
+             ELSE IF userGuess > secretNumber THEN
+                 Display "Too high! Try again."
+             ELSE
+                 Display "Correct! You guessed the correct number!"
+                 EXIT LOOP
    UNTIL userGuess equals secretNumber
 
 4. Display "Game Over."
@@ -46,8 +50,4 @@ END
 **Akpan Salome Gabriel**
 
 ## Peer Reviewer
-**Abiola Okubadejo**
-
-
-
-
+**Ali Aliyu**
